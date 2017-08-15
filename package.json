@@ -1,0 +1,18 @@
+{
+  "name": "iping",
+  "version": "1.0.0",
+  "description": "ping lots of address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ping"
+  ],
+  "author": "Nighting",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "colors": "^1.1.2"
+  }
+}
